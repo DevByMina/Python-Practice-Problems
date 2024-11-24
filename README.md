@@ -68,3 +68,13 @@ Expected Output:
 # 20. Checking for Palindrome Strings
 # 21. Creating a Dictionary from Two Lists
 # 22. Simulating a Simple Password Check
+# 23. Calculating Average of Numbers Using Functions
+# 24. Finding the Longest Word in a List
+# 25. Checking if a Number is Prime
+# 26. Converting Temperature Units
+# 27. Generating a List of Squares Using List Comprehension and Functions
+# 28. Converting a List of Strings to Uppercase
+# 29. Calculating the Total Price Including Tax
+# 30. Finding the Minimum and Maximum Values in a List
+# 31. Checking if a String is a Valid Email Address
+# 32. Counting the Frequency of Each Character in a String
